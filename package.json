@@ -1,0 +1,19 @@
+{
+  "name": "apirestpractico",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo de API REST con JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alicbm/curso-practico-consumo-apirest-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alicbm/curso-practico-consumo-apirest-js/issues"
+  },
+  "homepage": "https://github.com/Alicbm/curso-practico-consumo-apirest-js#readme"
+}
